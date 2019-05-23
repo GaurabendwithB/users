@@ -1,19 +1,24 @@
 {
-    "items" : [
-          {
-              "firstName":"Gaurab",
-              "email":"gchoudhury@xactlycorp.com",
-              "status":"Activated",
-              "role":"Individual Payee"
-        },
-        {
-            "firstName":"Gaurav",
-            "email":"gpanday@xactlycorp.com",
-            "status":"Activated",
-            "role":"Manager"
-        }
-    ],
-    "limit": 3,
-    "offset": 0,
-    "totalCount": 3
+    "list" : {
+        "items" : [
+              {
+                  "firstName":"Gaurab",
+                  "email":"gchoudhury@xactlycorp.com",
+                  "status":"Activated",
+                  "role":"Individual Payee"
+            },
+            {
+                "firstName":"Gaurav",
+                "email":"gpanday@xactlycorp.com",
+                "status":"Activated",
+                "role":"Manager"
+            }
+        ],
+        "searchText": null,
+        "sortBy": "firstName",
+        "sortOrder": "ASC",
+        "limit": 3,
+        "offset": 0,
+        "totalCount": 3
+    }
 }
