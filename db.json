@@ -15,8 +15,5 @@
     ],
     "limit": 3,
     "offset": 0,
-    "searchText": null,
-    "sortBy": "firstName",
-    "sortOrder": "ASC",
     "totalCount": 3
 }
