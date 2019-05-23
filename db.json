@@ -17,8 +17,8 @@
         "searchText": null,
         "sortBy": "firstName",
         "sortOrder": "ASC",
-        "limit": 3,
+        "limit": 2,
         "offset": 0,
-        "totalCount": 3
+        "totalCount": 2
     }
 }
