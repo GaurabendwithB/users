@@ -2,13 +2,13 @@
     "list" : {
         "items" : [
               {
-                  "firstName":"Gaurab",
+                  "name":"Gaurab",
                   "email":"gchoudhury@xactlycorp.com",
                   "status":"Activated",
                   "role":"Individual Payee"
             },
             {
-                "firstName":"Gaurav",
+                "name":"Gaurav",
                 "email":"gpanday@xactlycorp.com",
                 "status":"Activated",
                 "role":"Manager"
