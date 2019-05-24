@@ -28,12 +28,14 @@
       "name":"Gaurab Choudhury",
       "email":"fake1@xactlycorp.com",
       "status":"Activated",
+      "prefix" : "Mr.",
       "applications":[
          "incent",
          "modeling",
          "objective"
       ],
-      "roleType":"Individual payee",
+      "role":"Individual payee",
+      "TypeOfrole":"Individual payee",
       "loginProfile":"xactly",
       "ipAddress":"198.164.0.1",
       "language":"English"
@@ -43,12 +45,14 @@
       "name":"Gaurav Panday",
       "email":"fake2@xactlycorp.com",
       "status":"Activated",
+      "prefix" : "Mr.",
       "applications":[
          "incent",
          "modeling",
          "objective"
       ],
-      "roleType":"Manager",
+      "role":"Manager",
+      "TypeOfrole":"Manager",
       "loginProfile":"xactly",
       "ipAddress":"198.164.0.1",
       "language":"English"
