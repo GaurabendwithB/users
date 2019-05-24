@@ -35,7 +35,7 @@
          "objective"
       ],
       "role":"Individual payee",
-      "typeOfrole":"Individual payee",
+      "typeOfRole":"Individual payee",
       "loginProfile":"xactly",
       "ipAddress":"198.164.0.1",
       "language":"English"
@@ -52,7 +52,7 @@
          "objective"
       ],
       "role":"Manager",
-      "typeOfrole":"Manager",
+      "typeOfRole":"Manager",
       "loginProfile":"xactly",
       "ipAddress":"198.164.0.1",
       "language":"English"
