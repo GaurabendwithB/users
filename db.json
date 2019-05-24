@@ -23,31 +23,32 @@
         "offset": 0,
         "totalCount": 2
     }
-    "details" : 
-        "1" : {
-            "id":1
-            "name":"Gaurab Choudhury",
-            "email:fake1@xactlycorp.com,
-            "status":"Activated",
-            "applications":[
-                "incent","modeling","objective"
-            ],
-            "roleType":"Individual payee",
-            "loginProfile":"xactly",
-            "ipAddress":"198.164.0.1",
-            "language":"English"
-        },
-        "2" : {
-            "id":2
-            "name":"Gaurav Panday",
-            "email:fake2@xactlycorp.com,
-            "status":"Activated",
-            "applications":[
-                "incent","modeling","objective"
-            ],
-            "roleType":"Manager",
-            "loginProfile":"xactly",
-            "ipAddress":"198.164.0.1",
-            "language":"English"
-        }
+    "details" : {
+            "1" : {
+                "id":1
+                "name":"Gaurab Choudhury",
+                "email:fake1@xactlycorp.com,
+                "status":"Activated",
+                "applications":[
+                    "incent","modeling","objective"
+                ],
+                "roleType":"Individual payee",
+                "loginProfile":"xactly",
+                "ipAddress":"198.164.0.1",
+                "language":"English"
+            },
+            "2" : {
+                "id":2
+                "name":"Gaurav Panday",
+                "email:fake2@xactlycorp.com,
+                "status":"Activated",
+                "applications":[
+                    "incent","modeling","objective"
+                ],
+                "roleType":"Manager",
+                "loginProfile":"xactly",
+                "ipAddress":"198.164.0.1",
+                "language":"English"
+            }
+    }
 }
