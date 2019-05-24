@@ -22,12 +22,12 @@
         "limit": 2,
         "offset": 0,
         "totalCount": 2
-    }
+    },
     "details" : {
             "1" : {
                 "id":1
                 "name":"Gaurab Choudhury",
-                "email:fake1@xactlycorp.com,
+                "email":"fake1@xactlycorp.com",
                 "status":"Activated",
                 "applications":[
                     "incent","modeling","objective"
@@ -40,7 +40,7 @@
             "2" : {
                 "id":2
                 "name":"Gaurav Panday",
-                "email:fake2@xactlycorp.com,
+                "email":"fake2@xactlycorp.com",
                 "status":"Activated",
                 "applications":[
                     "incent","modeling","objective"
