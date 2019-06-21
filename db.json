@@ -96,5 +96,29 @@
            "previousValue":null,
            "newValue":"No"
       }
-   ]
+   ],
+   "config": {
+       "loginProfile":[{ 
+          label : "Xactly incent",
+          value : "xactly_incent"
+       },{ 
+          label : "Xactly Objective",
+          value : "xactly_objective"
+       }],
+       "language":[{
+          "label" : "English (United States)",
+          "value" : "en_us"
+       },
+       {
+         "label" : "English (United Kingdom)",
+          "value" : "en_uk"
+       }],
+       "userApps":[{ 
+          label : "Incent",
+          value : "incent"
+       },{ 
+          label : "Objective",
+          value : "objective"
+       }]
+   }
 }
