@@ -77,26 +77,6 @@
            "newValue":"No"
       }
    ],
-    "audit2":[
-         { 
-           "formattedModifiedDate":"2018-06-05 22:13:29.29",
-           "modifiedDate":1528287209000,
-           "modifiedBy":"Manasi Panda",
-           "action":"Created",
-           "modifiedField":"Value",
-           "previousValue":null,
-           "newValue":"Yes"
-       },
-      {  
-           "formattedModifiedDate":"2018-06-05 22:13:29.29",
-           "modifiedDate":1528287209000,
-           "modifiedBy":"Manasi Panda",
-           "action":"Created",
-           "modifiedField":"Value",
-           "previousValue":null,
-           "newValue":"No"
-      }
-   ],
    "config": {
        "loginProfile":[{ 
           "label" : "Xactly incent",
