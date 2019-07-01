@@ -63,7 +63,7 @@
              {"name":"Executive","roleType":"EXECUTIVE"},
              {"name":"Role4643237792096","roleType":"EXECUTIVE"},
              {"name":"BG1","roleType":"BUSINESS_GROUP_ADMINISTRATOR"}],
-   "roles/count" : {"count":"16","success":"true","objectName":null},
+   "count" : {"count":"16","success":"true","objectName":null},
    "config": {
        "loginProfile":[{ 
           "label" : "Xactly incent",
