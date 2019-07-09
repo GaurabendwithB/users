@@ -68,7 +68,7 @@
        "loginProfile":[{ 
           "label" : "Xactly incent",
           "value" : "xactly_incent",
-          "numberOfLicences" : '51'
+          "numberOfLicences" : 51
        },{ 
           "label" : "Xactly Objective",
           "value" : "xactly_objective"
