@@ -40,30 +40,24 @@
       "ipAddress":"198.164.0.1",
       "language":"English"
    },
-   "roles": [{"name":"Xactly","roleType":"XACTLY"},
-             {"name":"Sales Manager","roleType":"MANAGER"},
-             {"name":"123.sar","roleType":"MANAGER"},
-             {"name":"Sales Representative","roleType":"INDIVIDUAL_PAYEE"},
-             {"name":"sar_23","roleType":"INDIVIDUAL_PAYEE"},
-             {"name":"Role1125371643906977","roleType":"INDIVIDUAL_PAYEE"},
-             {"name":"Role138268807674997","roleType":"INDIVIDUAL_PAYEE"},
-             {"name":"Role16870744975734","roleType":"INDIVIDUAL_PAYEE"},
-             {"name":"Role4643237792095","roleType":"INDIVIDUAL_PAYEE"},
-             {"name":"Role4643237792098","roleType":"INDIVIDUAL_PAYEE"},
-             {"name":"Role6842326066883","roleType":"INDIVIDUAL_PAYEE"},
-             {"name":"Role4643237792097","roleType":"INDIVIDUAL_PAYEE"},
-             {"name":"Role1093033024377","roleType":"INDIVIDUAL_PAYEE"},
-             {"name":"Role5375393901911","roleType":"INDIVIDUAL_PAYEE"},
-             {"name":"Role2605372548694","roleType":"INDIVIDUAL_PAYEE"},
-             {"name":"Role9605364574768","roleType":"INDIVIDUAL_PAYEE"},
-             {"name":"Role7175336296177","roleType":"INDIVIDUAL_PAYEE"},
-             {"name":"Role22129747799315","roleType":"INDIVIDUAL_PAYEE"},
-             {"name":"Role638798749200946","roleType":"INDIVIDUAL_PAYEE"},
-             {"name":"Role94843821561117","roleType":"INDIVIDUAL_PAYEE"},
-             {"name":"Executive","roleType":"EXECUTIVE"},
-             {"name":"Role4643237792096","roleType":"EXECUTIVE"},
-             {"name":"BG1","roleType":"BUSINESS_GROUP_ADMINISTRATOR"}],
-   "count" : {"count":"16","success":"true","objectName":null},
+  "audit1":[
+         { 
+           "modifiedDate": "08/01/2019 04:05:39 PM IST",
+           "modifiedBy":"Manasi Panda",
+           "action":"Created",
+           "modifiedField":"Value",
+           "previousValue":null,
+           "newValue":"Yes"
+       },
+      {  
+           "modifiedDate": "08/01/2019 04:05:39 PM IST",
+           "modifiedBy":"Manasi Panda",
+           "action":"Created",
+           "modifiedField":"Value",
+           "previousValue":null,
+           "newValue":"No"
+      }
+   ],
    "config": {
        "loginProfile":[{ 
           "label" : "Xactly incent",
